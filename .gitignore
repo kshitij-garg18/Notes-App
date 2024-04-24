@@ -20,7 +20,7 @@ node_modules/
 *.bak
 
 # Firebase config file (if it contains sensitive information)
-firebaseConfig.js
+firebase.js
 
 # Environment variables file (if used)
 .env
