@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Editor directories and files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.log
+*.bak
+
+# Firebase config file (if it contains sensitive information)
+firebaseConfig.js
+
+# Environment variables file (if used)
+.env
+
+# Build output directory
+/build
+
+# Local development server files (if using Firebase Hosting)
+firebase.json
+firebase-debug.log
