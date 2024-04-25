@@ -1,5 +1,5 @@
 ### Deployment link : 
-<a href="https:[//example.com](https://delicate-conkies-e06c68.netlify.app/" target="_blank" rel="noopener noreferrer">View Project</a>
+<a href="https://delicate-conkies-e06c68.netlify.app/" target="_blank" rel="noopener noreferrer">View Project</a>
 
 
 # Setup 
